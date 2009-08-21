@@ -1,0 +1,19 @@
+ORDENANZA REGIONAL N° 008
+Callao, 23 de julio de 2009
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao en Sesión de 23 de julio de 2009, aprobó la siguiente:
+ORDENANZA REGIONAL QUE APRUEBA LA MICROZONIFICACIÓN ECOLÓGICA Y ECONÓMICA DE LA PROVINCIA CONSTITUCIONAL DEL CALLAO
+CONSIDERANDO:
+Que, el artículo 4º de la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales, establece que los Gobiernos Regionales tienen por finalidad esencial fomentar, el desarrollo integral sostenible promoviendo la inversión pública y privada y el empleo y garantizar el ejercicio pleno de los derechos y la igualdad de oportunidades de sus habitantes, de acuerdo con los planes y programas nacionales, regionales y locales de desarrollo;
+Que, el inciso a) del artículo 53º de la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales, precisa que son funciones específicas de los Gobiernos Regionales, formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar los planes y políticas en materia ambiental y de ordenamiento territorial, en concordancia con los planes de los Gobiernos Locales;
+Que, el Decreto Supremo Nº 087-2004-PCM – Reglamento de Zonificación Ecológica y Económica, en sus artículos 1º y 2º establece que la Zonificación Ecológica y Económica es un proceso dinámico y flexible para la identificación de diferentes alternativas de uso sostenible de un territorio determinado, basado en la evaluación de sus potencialidades y limitaciones con criterios físicos, biológicos, sociales, económicos y culturales, orientado a toma de decisiones sobre los mejores usos del territorio, considerando las necesidades de la población que lo habita y en armonía con el ambiente;
+Que, el artículo 22º del Decreto Supremo Nº 087-2004-PCM – Reglamento de Zonificación Ecológica y Económica, establece que la Zonificación Ecológica y Económica de un ámbito regional es aprobada por Ordenanza Regional;
+Que, mediante Ordenanza Regional Nº 010, el Gobierno Regional crea la Comisión Técnica de Zonificación Ecológica y Económica en el ámbito de la Provincia Constitucional del Callao, con la finalidad de promover, opinar, acompañar y coordinar la ejecución del proceso de ejecución del proceso de Zonificación Ecológica y Económica;
+Que, en concordancia con lo establecido por la Metodología para la Zonificación Ecológica y Económica, aprobada por Decreto del Consejo Directivo Nº 010-2009-CONAM/CD, el cual señala que ésta deberá ser concertada y validada por los actores sociales;
+Que, el 24 de octubre del 2008, representantes de los gobiernos locales, entidades públicas y privadas miembros de la Comisión de Zonificación Ecológica y Económica, y representantes de las Gerencias y Oficinas del Gobierno Regional, suscribieron el Acta de Validación de la Zonificación Ecológica y Económica de la Provincia Constitucional del Callao;
+Que, mediante Informe Nº 05-2009-GRC/ GRPPAT-OAT de 12 de enero de 2009, la Oficina de Acondicionamiento Territorial, propone se apruebe la Microzonificación Ecológica y Económica de la Provincia Constitucional del Callao, a fin de que las diversas instituciones públicas en el ámbito regional la utilicen de manera obligatoria como instrumento de planificación y gestión del territorio;
+Que, se han celebrado Convenios Específicos con los Gobiernos Locales de la Municipalidad Provincial del Callao, Municipalidad Distrital de Bellavista, Municipalidad Distrital de Carmen de La Legua, Municipalidad Distrital de La Punta y Municipalidad Distrital de Ventanilla, cuyo objeto es la cooperación recíproca para llevar a cabo todas las etapas del proceso de la Micro zonificación Ecológica y Económica, para lo cual también harán suyo el documento mediante Ordenanza Municipal;
+De conformidad con lo dispuesto por la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional del Gobierno Regional del Callao ha emitido la siguiente;
+ORDENANZA REGIONAL:
