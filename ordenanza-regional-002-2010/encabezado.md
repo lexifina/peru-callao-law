@@ -1,0 +1,19 @@
+ORDENANZA REGIONAL Nº 002
+Callao, 22 de marzo de 2010
+El PRESIDENTE DEL CONSEJO
+REGIONAL DEL CALLAO POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao en Sesión de 22 de marzo de 2010;
+CONSIDERANDO:
+Que la Ley de Reforma Constitucional del Capítulo XIV del Título, sobre Descentralización – Ley Nº 27680, Ley de Bases de la Descentralización – Ley Nº 27783, Ley Orgánica de Gobiernos Regionales – Ley Nº 27867 y sus modificatorias, reconocen a los Gobiernos Regionales autonomía política, económica y administrativa en asuntos de su competencia;
+Que, el inciso a) del artículo 64º de la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales establece que las funciones en materia de artesanía son las de formular, aprobar, ejecutar, evaluar, dirigir, controlar y administrar las políticas en materia de la Artesanía, en concordancia con la política general de gobierno y los planes sectoriales;
+Que, el inciso 26) del artículo 95 del Reglamento de Organización y Funciones del Gobierno Regional del Callao, aprobado mediante Ordenanza Regional Nº 006 de 11 de marzo de 2008 establece que son funciones de la Oficina de Comercio, Turismo y Energía y Minas de la Gerencia Regional de Desarrollo Económico, las de fomentar y desarrollar proyectos, programas u otros mecanismos para promover la competitividad y productividad de la actividad artesanal en la Región, con la participación de entidades públicas y privadas;
+Que, el Plan de Desarrollo Concertado de la Región Callao 2003 – 2011 aprobado mediante el Acuerdo Nº 019-2003 del Consejo Regional del Gobierno Regional del Callao enuncia como objetivo estratégico el desarrollo turístico en la Provincia Constitucional del Callao, por lo que el Estado al reconocer a la artesanía como un recurso turístico incorporable en todos los productos turísticos, el desarrollo de dicha actividad artesanal está priorizado;
+Que, mediante Ley Nº 29073 se aprueba la Ley del Artesano y del Desarrollo de la Actividad Artesanal, y en su artículo 9º establece el rol promotor del Estado: “El Estado promueve y facilita el desarrollo de la actividad artesanal a través de los diversos sectores y niveles de gobierno, estableciendo mecanismos para incentivar la inversión privada, la producción, el acceso a los mercados interno y externo, así como otros mecanismos que permitan la organización empresarial y asociativa que coadyuven al crecimiento sostenible de la Artesanía”;
+Que, el inciso 12.3 del artículo 12 de la Ley del Artesano y del Desarrollo de la Actividad Artesanal, establece que los Gobiernos Regionales a través de las Direcciones Regionales de Comercio Exterior y Turismo, contarán con un Consejo Regional de Fomento Artesanal como órgano de coordinación entre el sector público y privado;
+Que, por el Decreto Supremo Nº 001-2008-MINCETUR, se aprueba el Reglamento del Registro Nacional del Artesano y del Consejo Nacional de Fomento Artesanal, creados mediante los artículos 12º y 30º de la Ley 29073;
+Que, el Informe Técnico Nº 010-2010-GRC-GRDE-OCTEM de la Gerencia Regional de Desarrollo Económico, concluye que la Provincia Constitucional del Callao cuenta con un significativo número de Talleres Artesanales por lo que se vienen realizando acciones para que la artesanía, actividad generadora de empleo se constituya en el Callao en un sector económicamente viable y asimismo, justifica la necesidad de crear un Consejo Regional de Fomento Artesanal en el Callao;
+Que, mediante el Informe Nº 231-2010-GRC-GAJ, la Gerencia de Asesoría Jurídica considera procedente la creación del Consejo Regional de Fomento Artesanal del Callao – COREFARC, toda vez que será el órgano coordinador entre el sector público y el sector privado artesanal;
+Estando a lo acordado y en uso de las atribuciones conferidas por la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales, ha aprobado la siguiente:
+ORDENANZA QUE CREA EL
+CONSEJO REGIONAL DE FOMENTO
+ARTESANAL DEL CALLAO – COREFARC
