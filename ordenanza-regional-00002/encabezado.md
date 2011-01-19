@@ -1,0 +1,18 @@
+ORDENANZA REGIONAL
+N° 00002
+Callao, 11 de enero de 2011
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao en Sesión de 11 de enero de 2011;
+CONSIDERANDO:
+Que, la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, señala en su artículo 2º, que los Gobiernos Regionales son personas jurídicas de Derecho Público con autonomía política, económica y administrativa en asuntos de su competencia; estableciendo asimismo en su artículo 5º, que su misión es la de organizar y conducir la Gestión Pública Regional, conforme a sus competencias exclusivas, compartidas y delegadas, todo ello en el marco de las políticas nacionales y sectoriales, con el objeto de contribuir al desarrollo integral y sostenible de la Región;
+Que, mediante Decreto Supremo Nº 007-2003-VIVIENDA, se crea el Macro Proyecto Pachacútec, con el objeto de propiciar el desarrollo y consolidación integral del Proyecto Piloto Nuevo Pachacútec, Proyecto Especial Ciudad Pachacútec y los Asentamientos Humanos Formalizados;
+Que, mediante Ordenanza Regional Nº 003-2005-REGION CALLAO-CR, publicada en el Diario Oficial El Peruano con fecha 08 de abril del 2005, se faculta en su Artículo Primero al Presidente del Gobierno Regional, para que a través de la Gerencia de Administración, se realice el Saneamiento físico legal de las áreas de los terrenos de los Proyectos Especial Ciudad Pachacútec y Piloto Nuevo Pachacútec, disponiéndose en su Artículo Tercero el estricto cumplimiento de la Ordenanza Regional, informando permanentemente al Consejo Regional respecto a los avances del Saneamiento Físico Legal;
+Que, mediante Informe N° 01-2011-GRC/GA, la Gerencia de Administración, solicita la modificación de los artículos primero y tercero de la Ordenanza Regional Nº 003-2005-REGION CALLAO-CR, en la cual se faculta al Señor Presidente del Gobierno Regional del Callao, para que a través de la Gerencia de Administración se efectúe el saneamiento físico legal de las áreas de los terrenos de los Proyectos Especial Ciudad Pachacútec y Piloto Nuevo Pachacútec, debiendo informar permanentemente al Consejo Regional respecto a los avances del Saneamiento Físico Legal;
+Que, mediante Memorando N° 038-2011-GRC-GRDE, la Gerencia Regional de Desarrollo Económico, emite un Informe Técnico en la que sustenta la necesidad estratégica de derivar la encargatura del saneamiento físico legal de las áreas de los terrenos de los Proyectos Especial Ciudad Pachacútec y Piloto Nuevo Pachacútec de la Gerencia de Administración a la Gerencia Regional de Desarrollo Económico debiéndose encargar esta Gerencia de los avances del Saneamiento Físico Legal en las Áreas de los terrenos de los Proyectos Especial Ciudad Pachacútec y Piloto Nuevo Pachacútec;
+Que, mediante Informe Nº 020-20011-GRC-GAJ, la Gerencia de Asesoría Jurídica, opina que resulta procedente la modificación de los artículos primero y tercero de la Ordenanza Regional Nº 003-2005-REGION CALLAO-CR, debiéndose facultar a la Gerencia Regional de Desarrollo Económico, efectuar el Saneamiento Físico Legal de las Áreas de los terrenos de los Proyectos Especial Ciudad Pachacútec y Piloto Nuevo Pachacútec, debiendo informar permanentemente al Consejo Regional de los avances del Saneamiento;
+Estando a lo acordado y en uso de las atribuciones conferidas por la Ley N° 27867 – Ley Orgánica de Gobiernos Regionales, ha aprobado la siguiente:
+ORDENANZA REGIONAL QUE APRUEBA LA MODIFICACIÓN DE LOS ARTÍCULOS PRIMERO Y TERCERO DE LA ORDENANZA REGIONAL N° 003-
+2005-REGION CALLAO-CR
+El Consejo Regional del Gobierno Regional del Callao, ha aprobado la modificación de los artículos primero y tercero de la Ordenanza Regional N° 003-2005-REGION CALLAO-CR, en los siguientes términos:
