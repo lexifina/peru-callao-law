@@ -1,0 +1,21 @@
+ORDENANZA REGIONAL
+N° 00004
+Callao, 25 de enero de 2011
+EL PRESIDENTE DEL GOBIERNO
+REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao en Sesión del 25 de Enero del 2011.
+CONSIDERANDO:
+Que, mediante lo dispuesto en la Constitución Política del Perú, la Ley de Bases de la Descentralización, Ley Nº 27783 y la Ley Orgánica de los Gobiernos Regionales, Ley Nº 27867, y sus modificatorias, los Gobiernos Regionales son personas jurídicas de derecho público, con autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, de acuerdo a lo establecido en el artículo 35º, literal m) de la Ley de Bases de la Descentralización, corresponde a los Gobiernos Regionales dictar las normas sobre los asuntos y materias de su responsabilidad; y que el Artículo 38º de la Ley Orgánica de Gobiernos Regionales, dispone que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, el artículo 47º de la Ley Orgánica de Gobiernos Regionales, dispone que, entre las funciones de los Gobiernos Regionales en materia de educación, cultura, ciencia, tecnología, deporte y recreación, se encuentran las siguientes:
+a) Formular, aprobar, ejecutar, evaluar y administrar las políticas regionales de educación, cultura, ciencia y tecnología, deporte y recreación de la Región.
+h) Integrar los distintos programas educativos regionales en una política integral orientada, en lo económico, a la mejora en la productividad y competitividad de la región; en lo social, a propiciar la igualdad de oportunidades, la integración y la inclusión a nivel regional; en lo político, al afianzamiento de los mecanismos de participación ciudadana y rendición de cuentas en los distintos niveles de gobierno, y en lo cultural, al desarrollo de una cultura de paz y reconocimiento y respeto a la diversidad.
+p) Evaluar periódicamente y de manera sistemática los logros alcanzados por la región en materia educativa y apoyar las acciones de evaluación y medición que desarrolla el Ministerio de Educación, así como contribuir al desarrollo de la política de acreditación y certificación de la calidad educativa en el ámbito de su competencia.
+Que, el Gobierno Regional del Callao, al recibir la transferencia de las funciones específicas en materia de educación, tiene la competencia compartida necesaria para accionar según lo dispuesto en el Artículo 47º de la Ley Orgánica de Gobiernos Regionales;
+Que, el primer propósito de la Educación Básica Regular al 2021 es el desarrollo de la identidad personal, social y cultural en el marco de una sociedad democrática, intercultural y ética en el Perú;
+Que, en la Región Callao, nuestros jóvenes estudiantes se vienen apartando de lo señalado en el párrafo anterior, manifestándose en la proliferación de delincuencia, pandillaje, drogadicción y una casi total falta de identificación con su entorno social;
+Que, de acuerdo con el Artículo 33º de la Ley General de Educación, los currículos básicos nacionales se diversifican en las instancias regionales y locales, en coherencia con las necesidades, demandas y características de los estudiantes y de la realidad social, cultural, lingüística, económica – productiva y geográfica en cada una de las regiones y localidades de nuestro país;
+Que, el Gobierno Regional del Callao por intermedio de su Gerencia de Educación en estrecha coordinación con la Unidad de Gestión Pedagógica de la Dirección Regional de Educación del Callao, tomando acciones directas para encaminar los procesos educativos en la Región Callao, realineándolo hacia el primer propósito de la Educación Básica Regular; plantean la aplicación de un nuevo curso que se insertará en el Plan de Estudios del Nivel Secundaria; específicamente en los grados 4to.y 5to; en forma obligatoria para las Instituciones Educativas de gestión pública;
+Estando a lo expuesto y de conformidad con lo establecido en la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional del Callao ha aprobado la siguiente:
+ORDENANZA REGIONAL QUE DISPONE EN LAS INSTITUCIONES EDUCATIVAS PÚBLICAS DEL NIVEL SECUNDARIA DEL ÁMBITO DE LA JURISDICCIÓN DE LA REGIÓN CALLAO LA OBLIGATORIEDAD DE DESARROLLAR EL CURSO DE EDUCACION CIVICA
