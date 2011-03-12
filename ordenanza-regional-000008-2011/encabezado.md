@@ -1,0 +1,18 @@
+ORDENANZA REGIONAL
+N° 000008
+Callao, 1 de marzo de 2011
+EL PRESIDENTE DEL GOBIERNO REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao en Sesión del 01 de marzo del 2011.
+CONSIDERANDO:
+Que, de conformidad a lo establecido en la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales, artículo 15º, Inc. a) dispone que son atribuciones del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, el artículo 9, literal a) del antes citado cuerpo normativo establece que los Gobiernos Regionales son competentes para: “Aprobar su organización interna y su presupuesto”.
+Que, el Decreto Supremo Nº 043-2004-PCM aprueba los lineamientos para la elaboración y aprobación del Reglamento de Organización y Funciones – ROF por parte de las Entidades de la Administración Pública, documento técnico normativo de gestión institucional que formaliza la estructura orgánica de la entidad orientada al esfuerzo institucional y al logro de su misión y objetivos y que contiene las funciones generales de la entidad y las funciones específicas de los órganos y unidades orgánicas; concordante con la Resolución Ministerial Nº 566-2005-MINSA que trata sobre los “Lineamientos para Adecuación de la Organización de las Direcciones Regionales de Salud en el Marco del Proceso de Descentralización;
+Que, mediante Informe Nº 110-2010-GRC/GRS/ DIRESA-OEPE de fecha 13 de setiembre de 2010, la Dirección Ejecutiva de Planeamiento Estratégico de la Dirección Regional de Salud, remite a dicha Dirección Regional el Proyecto de Reglamento de Organización y Funciones del Hospital San José, reformulado de acuerdo a las observaciones señaladas en el Informe Nº 035-2010-GRC/GRPPAT-CMN por la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, cuyas observaciones han sido implementadas por la Oficina de Planeamiento estratégico del Hospital San José, a través del Memorándum Nº 011-2010-OPE-HSJ-C, señalando el sustento y las modificaciones realizadas al proyecto de ROF;
+Que, la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, a través del Informe Nº 053-2010-GRC/GRPPAT/ORE-CMN emitido por la Oficina de Racionalización y Estadística establece que el requerimiento formulado por el Hospital San José, resulta técnicamente procedente, al haberse reformulado de conformidad con el Decreto Supremo a que se refiere el tercer considerando de la presente Ordenanza.
+Que, en virtud del Memorando Nº 847-2010-GRC/ GRS, la Gerencia Regional de Salud del Gobierno Regional del Callao, emite pronunciamiento favorable a la propuesta del Reglamento de Organización y Funciones del Hospital San José;
+Que, el Informe Nº 042-2011-GRC/GAJ emitido por la Gerencia de Asesoría Jurídica, ratifica la conclusión señalada en el Informe Nº 1287-2010-GRC/GAJ de fecha 29 de diciembre de 2010, que establece que en mérito a lo opinado por las Oficinas de Racionalización y Estadística, la Oficina de Presupuesto y Tributación de la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial; considera procedente la propuesta del Reglamento de Organización y Funciones del Hospital San José, formulada por la Oficina de Planeamiento Estratégico del citado Hospital dado que cuenta con los informes técnicos sustentatorios favorables para su aprobación;
+Estando a lo expuesto y de conformidad a lo establecido a la Ley Nº 27867-Ley Orgánica de Gobiernos Regionales, ha aprobado la siguiente:
+ORDENANZA REGIONAL QUE APRUEBA EL REGLAMENTO DE ORGANIZACIÓN Y FUNCIONES
+DEL HOSPITAL SAN JOSÉ DEL GOBIERNO
+REGIONAL DEL CALLAO
