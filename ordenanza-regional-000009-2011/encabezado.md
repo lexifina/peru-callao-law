@@ -1,0 +1,21 @@
+ORDENANZA REGIONAL
+N° 000009
+Callao, 21 de marzo de 2011
+EL PRESIDENTE DEL GOBIERNO REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao en Sesión del 21 de marzo del 2011.
+CONSIDERANDO:
+Que, de conformidad a lo establecido en la Ley Nº 27867 - Ley Orgánica de Gobiernos Regionales, Artículo 15º, inc.
+a) dispone que son atribuciones del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, el artículo 9, literal a) del antes citado cuerpo normativo establece que los Gobiernos Regionales son competentes para: “Aprobar su organización interna y su presupuesto”;
+Que, el Decreto Supremo Nº 043-2004-PCM aprueba los lineamientos para la elaboración y aprobación del Cuadro para Asignación de Personal (CAP) de las Entidades de la Administración;
+Que, el Decreto Supremo Nº 002-2011-SA establece los lineamientos generales que deben seguir las unidades ejecutoras del Ministerio de Salud, sus órganos públicos y las unidades ejecutoras de salud de los Gobiernos Regionales para efectuar el proceso de nombramiento dispuesto por las Leyes Nos. 28498 y 28580, en el marco de la Ley Nº 29626 del Presupuesto del Sector Público para el año Fiscal 2011;
+Que, el artículo 5º de la norma citada en el párrafo anterior estipula que las unidades ejecutoras de salud de los Gobiernos Regionales, deberán proponer la modificación de su CAP en caso no cuente con cargos previstos para efectuar el nombramiento del personal, para cuyo efecto deberán solicitar a sus pliegos respectivos la aprobación de las modificaciones correspondientes que les permita contar con los cargos necesarios para llevar a cabo los indicados nombramientos, debiendo contar con una propuesta de modificación del CAP conforme a los criterios técnicos del Decreto Supremo Nº 043-2004-PCM a que se refiere el tercer considerando;
+Que, la Dirección General de Salud del Callao viene solicitando a la Entidad en el marco de la normatividad citada, la modificación del CAP de la DIRESA-ADMINISTRACIÓN CENTRAL, de las tres Direcciones de Redes de Salud: Bonilla-La Punta, BEPECA, Ventanilla y del Hospital de Ventanilla, incluyendo 56 cargos previstos, correspondientes al 15% como requisitos para efectivizar el desarrollo del proceso de nombramiento del personal contratado correspondiente al año 2011, siendo 19 profesionales de Salud no médicos de acuerdo a la Ley Nº 28498 y 37 trabajadores personal técnico asistencial y administrativo, personal de servicio y auxiliar asistencial considerados de acuerdo a la Ley Nº 28560.
+Que, asimismo, la DIRESA CALLAO solicita el cambio de condición del cargo de 64 cargos previstos ocupados por el efecto del proceso de nombramiento del 15% de personal contratado correspondiente al año 2011;
+Que, la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial ha analizado la propuesta formulada por la Dirección de Salud encontrándola procedente, conforme aparece del Memorándum Nº 691-2011-GRC/GRPPAT;
+Que, sustentan la presente Ordenanza Regional los informes técnicos sustentatorios emitidos por el Jefe de la Unidad de Organización, la Oficina de Asesoría Jurídica y el Director Ejecutivo de Planeamiento Presupuesto, mediante el cual señala que la DIRESA-CALLAO, cuenta con disponibilidad Presupuestal para el financiamiento de los cargos;
+Que, el Informe Nº 333-2011-GRC/GAJ emitido por la Gerencia de Asesoría Jurídica, opina que la modificatoria del Cuadro de Asignación de Personal (CAP) de la DIRESA y de las Direcciones de Red de Salud: Bonilla-La Punta, BEPECA y VENTANILLA, solicitadas por la Dirección General de Salud del Callao se encuentran arregladas a derecho, toda vez que cumple los lineamientos establecidos en el Decreto Supremo Nº 002-2011-SA y Decreto Supremo Nº 043-2011-PCM;
+Estando a lo expuesto y de conformidad a lo establecido a la Ley Nº 27867-Ley Orgánica de Gobiernos Regionales, contando con Dictamen Nº 007-2011/CA, favorable, de la Comisión de Administración del Consejo Regional del Gobierno Regional del Callao, ha aprobado por UNANIMIDAD, la siguiente:
+ORDENANZA REGIONAL QUE MODIFICA EL CUADRO DE ASIGNACIÓN DE PERSONAL DE LA DIRESA Y DE LAS DIRECCIONES DE RED DE SALUD: BONILLA-LA PUNTA, BEPECA Y
+VENTANILLA
