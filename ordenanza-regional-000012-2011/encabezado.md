@@ -1,0 +1,17 @@
+ORDENANZA REGIONAL
+Nº 000012
+Callao, 19 de mayo del 2011
+EL PRESIDENTE DEL GOBIERNO REGIONAL DEL CALLAO.
+POR CUANTO:
+El Consejo del Gobierno Regional del Callao, en sesión celebrada el 19 de mayo de 2011, con el voto UNÁNIME de los Consejeros Regionales y en uso de las facultades conferidas por la Ley Orgánica de Gobiernos Regionales Nº 27867 y el Reglamento Interno del Consejo Regional del Callao.
+CONSIDERANDO:
+Que la Ley Nº 28056, Ley Marco del Presupuesto Participativo, la Ley Nº 29298, Ley que modifica la Ley Nº 28056 y su Reglamento aprobado mediante Decreto Supremo Nº 171-2003-EF, definen y establecen las disposiciones, alcances y objetivos del Proceso Participativo;
+Que, mediante la Ley Nº 28056, Ley Marco del Presupuesto Participativo, en el artículo 1 señala que el proceso de presupuesto participativo es un mecanismo de asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos, que fortalece las relaciones Estado – Sociedad Civil. Para ello los gobiernos regionales y gobiernos locales promueven el desarrollo de mecanismo y estrategias de participación en la programación de sus presupuestos, así como en la vigilancia y fiscalización de la gestión de los recursos públicos;
+Que, el Presupuesto Participativo tiene por objeto establecer disposiciones que aseguren la efectiva participación de la sociedad civil en el proceso de programación participativa del presupuesto, el cual se desarrolla en armonía con los planes de desarrollo concertados de los gobiernos regionales y gobiernos locales, así como la fiscalización de la gestión.
+Que, la Ley Nº 29091 y su Reglamento aprobado mediante Decreto Supremo Nº 004-2008-PCM, que modifica el párrafo 38.3 del artículo 38 de la Ley de Procedimiento Administrativo General Nº 27444, establecen la publicación de diversos dispositivos legales en el portal del Estado Peruano y en los portales institucionales, en el artículo 2 señala que las entidades públicas, entre ellas los gobiernos regionales, están obligadas a publicar en el portal del Estado Peruano y en sus portales institucionales, entre otros, los reglamentos técnicos, lineamientos y directivas.
+Que, mediante Resolución Directoral Nº 007-2010-EF/76.01 se aprobó el Instructivo Nº 001-2010-EF/76.01 – “Instructivo para el Proceso del Presupuesto Participativo basado en Resultados”, con la finalidad de orientar y fortalecer los procesos de planeamiento concertado y Presupuesto Participativo.
+Que, mediante Informe Nº 111-2011-GRC/GRPPAT de fecha 18 de mayo del 2011, la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial recomienda aprobar el Reglamento del Proceso del Presupuesto Participativo;
+Que, la Gerencia de Asesoría Jurídica mediante Informe Nº 528-2011-GRC/GAJ, considera que es viable y procedente su aprobación, el mismo que debe ser aprobado mediante Ordenanza Regional;
+Estando a lo expuesto y de conformidad con lo establecido en la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional ha aprobado la siguiente:
+ORDENANZA REGIONAL QUE APRUEBA EL REGLAMENTO DEL PROCESO DEL PRESUPUESTO PARTICIPATIVO PARA EL EJERCICIO FISCAL 2012
+DEL GOBIERNO REGIONAL DEL CALLAO Artículo Primero.- Apruébese el Reglamento del Proceso del Presupuesto Participativo para el Año Fiscal 2012, que en anexo constituye parte integrante de la presente Ordenanza Regional, cuyo texto se publica en el Portal Institucional www.regioncallao.gob.pe
