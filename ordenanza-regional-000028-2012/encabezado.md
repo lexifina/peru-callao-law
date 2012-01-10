@@ -1,0 +1,19 @@
+ORDENANZA REGIONAL
+Nº 000028
+Callao, 20 de diciembre del 2011 EL PRESIDENTE DEL GOBIERNO REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao, en Sesión del 20 de diciembre de 2011;
+CONSIDERANDO:
+Que, mediante Ordenanza Regional Nº 006-2008 publicada en el Diario Oficial El Peruano el 21 de de marzo del 2008 se aprobó el Reglamento de Organización y Funciones del Gobierno Regional del Callao;
+Que, de conformidad a lo establecido en la Ley Nº 27867-Ley Orgánica de Gobiernos Regionales, artículo 15, inciso a) dispone que son atribuciones del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, el Artículo 9º, literal a) de la Ley Nº 27867 –Ley Orgánica de Gobiernos Regionales establece que los Gobiernos Regionales son competentes para: “Aprobar su organización interna y su presupuesto”;
+Que, el Artículo 4º de la Ley Nº 27658-Ley Marco de Modernización de la Gestión del Estado, señala que la finalidad del proceso de modernización de la gestión del Estado tiene como finalidad fundamental la obtención de mayores niveles de eficiencia del aparato estatal, de manera que se logre una mejor atención a la ciudadanía priorizando y optimizando el uso de los recursos públicos;
+Que, el Decreto Supremo Nº 043-2006-PCM norma que aprueba los lineamientos para la elaboración y aprobación del Reglamento de Organización y Funciones-ROF por parte de las entidades de la administración pública, en su Artículo 3º señala como finalidad el de generarla aprobación de un ROF que contenga una adecuada estructura orgánica de la entidad y definición de sus funciones y las de los órganos que la integran, acorde con los criterios de diseño y estructura de la Administración Pública que establece la Ley Nº 27658-Ley Marco de Modernización del la Gestión del Estado, con el objetivo de priorizar y optimizar el uso de los recursos públicos e identificar las responsabilidades específicas de las entidades públicas y sus unidades orgánicas, asignadas por el ordenamiento jurídico aplicable en cada caso;
+Que, mediante Memorando Nº 534-2011-GRC/GGR la Gerencia General Regional, propone que con la finalidad de ordenar adecuadamente en un solo documento, la estructura orgánica y las funciones generales y específicas de las unidades que integran la institución, se formule un Texto Único del Reglamento de Organización y Funciones del Gobierno Regional del Callao, el mismo que va a permitir un menor manejo de dicha información; así como, optimizar la relación y coordinación con los otros documentos de gestión;
+Que, según Informe Nº 1770-2011-GRC/GAJ la Gerencia de Asesoría Jurídica señala que se hace necesario que, se realice en un solo cuerpo la reunión homogénea y actualizada del conjunto normativo además de las Ordenanzas Regionales, que se hayan emitido de manera sucesiva en el tiempo, las que incluyen la recepción de nuevas competencias y funciones sectoriales, en atención a lo previsto por la Ley Nº 27783, Ley de Bases de Descentralización, para una mejor comprensión y aplicación práctica; en razón a ello, y considerándose que corresponde a la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial el proponer, mantener y/o actualizar los instrumentos de gestión del Gobierno Regional, conforme lo establece el numeral 15º del Artículo 78º del Reglamento de Organización y Funciones, la misma que debe ser aprobada a través de Ordenanza Regional previo Acuerdo del Consejo Regional.
+Estando a lo expuesto y de conformidad a lo establecido a la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales, ha aprobado por UNANIMIDAD, lo siguiente:
+ORDENANZA REGIONAL
+QUE APRUEBA EL TEXTO ÚNICO ORDENADO
+DEL REGLAMENTO DE ORGANIZACIÓN
+Y FUNCIONES DEL GOBIERNO REGIONAL
+DEL CALLAO
