@@ -1,0 +1,16 @@
+ORDENANZA REGIONAL
+Nº 000009
+Callao, 23 de julio del 2015
+EL GOBERNADOR DEL GOBIERNO REGIONAL DEL CALLAO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional del Callao, en Sesión del Consejo Regional del 23 de julio del 2015;
+CONSIDERANDO:
+Que, mediante Ordenanza Regional Nº 000012, publicada en el Diario “El Peruano” el 14 de mayo de 2012, se aprobaron las disposiciones para administrar el transporte de mercancías de ámbito regional y aminorar los impactos en la vía pública generados por actividades conexas a los servicios de carga en la Región Callao;
+Que, con Ordenanza Regional Nº 000025 publicada en el Diario Oficial “El Peruano” el 10 de agosto de 2012, se suspendió la vigencia de la Ordenanza Regional Nº 000012 por un periodo de ciento cincuenta (150) días calendarios, con la finalidad de que se constituya una Comisión Técnica de Trabajo con la finalidad de recibir aportes y sugerencias para el mejoramiento de la Ordenanza Regional Nº 000012;
+Que, mediante Ordenanza Regional Nº 000001 publicada en el Diario Oficial “El Peruano” el 18 de enero de 2013, se dispuso prorrogar el plazo previsto en el artículo primero de la Ordenanza Regional Nº 000025 del 25 de junio de 2012, por ciento ochenta (180) días calendarios por cuanto, se requirió las acciones legales a determinarse por la Gerencia a su cargo respecto al conflicto competencial en materia de transportes, correspondiendo a la Procuraduría Pública Regional de conformidad con el artículo 22º de la Ley Nº 27181 interponga la demanda de conflicto de competencia;
+Que, con la Ordenanza Regional Nº 000004 publicada en el diario “El Peruano” el 16 de abril de 2014, se suspendió la vigencia de la Ordenanza Regional Nº 000012 publicada el 14 de mayo de 2012 por un periodo de ciento ochenta (180) días calendarios, computados a partir del día siguiente de la publicación en el diario oficial “El Peruano”.
+Que, con Informe Nº 123-2015-GRC-GRTC/JALZ del 13 de julio de 2015, se advierte que, el plazo de suspensión de la Ordenanza Regional Nº 000012 por ciento ochenta (180) días dispuesto en la Ordenanza Regional Nº 000018 publicada en el diario oficial “El Peruano” el 22 de enero de 2015, vence el 20 de julio de 2015; siendo ello así, a fin de evitar una inseguridad jurídica al respecto, resulta indispensable se vuelva a suspender la vigencia de la Ordenanza Regional Nº 000012, al no haber resuelto el Tribunal Constitucional la demanda de Conflicto de Competencia a la fecha;
+Que, el artículo 13º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, el Consejo Regional es el órgano normativo y fiscalizador del Gobierno Regional, el artículo 15º inciso a) señala que son atribuciones del Consejo Regional de: “Aprobar, modificar, o derogar las normas que regulan o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional”; y el artículo 37º inciso a) señala que el Consejo Regional dicta las ordenanzas y acuerdos del Consejo Regional;
+Que, estando a lo expuesto y en uso de las atribuciones otorgadas al Gobernador Regional por la Ley Orgánica de Gobiernos Regionales Ley Nº 27867; el Consejo Regional ha aprobado, por unanimidad, lo siguiente:
+ORDENANZA REGIONAL QUE SUSPENDE POR 180 DÍAS CALENDARIOS LA VIGENCIA DE LA ORDENANZA REGIONAL Nº 000012 PUBLICADA EN EL DIARIO OFICIAL EL PERUANO
+EL 14 DE MAYO DE 2012
