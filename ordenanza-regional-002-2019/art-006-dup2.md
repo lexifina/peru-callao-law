@@ -1,0 +1,1 @@
+artículo 6º.- Encárguese a la Oficina de Trámite Documentario y Archivo del Gobierno Regional del Callao, notificar la presente Ordenanza Regional, a las Unidades Orgánicas del Gobierno Regional del Callao, para su conocimiento y fines pertinentes.
