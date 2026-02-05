@@ -1,0 +1,1 @@
+Artículo 2º.- ENCARGAR, a la Gerencia General Regional, a la Gerencia de Administración, a la Oficina de Recursos Humanos y a la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, adopten las acciones necesarias para dar cumplimiento la presente ordenanza.
