@@ -165,20 +165,64 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-000024` | Ordenanza Regional N° 000024: Modifican las Ordenanzas Regionales N°s. 000020 y 000021 | 1 | 2012-08-11 to 2012-08-11 |
 | `ordenanza-regional-0000023` | Ordenanza Regional N° 0000023: Crean y conforman el "Comité Directivo Regional de Prevencion y Erradicación del Trabajo Infantil de la Región Callao - CORPETI" | 1 | 2012-06-16 to 2012-06-16 |
 | `ordenanza-regional-000021` | Ordenanza Regional N° 000021: Declaran de interés y necesidad pública la vigilancia, prevención y control del dengue en la Región Callao | 1 | 2012-06-16 to 2012-06-16 |
+| `ordenanza-regional-000019-2012` | Ordenanza Regional N° 000019 (2012): Aprueban la modificación del Cuadro para Asignación de Personal de la Dirección Regional de Salud del Callao, de las Direcciones de Redes de Salud Bonilla-La Punta, BEPECA y Ventanilla, y del Hospital de Ventanilla | 1 | 2012-06-12 to 2012-06-12 |
+| `ordenanza-regional-000011-2012` | Ordenanza Regional N° 000011 (2012): Aprueban nuevos procedimientos administrativos y servicios prestados en exclusividad de la Dirección Regional de Salud del Callao y la modificación de su TUPA
 
-The build made 148 commits:
+. | 1 | 2012-04-20 to 2012-04-20 |
+| `ordenanza-regional-000007-2012` | Ordenanza Regional N° 000007 (2012): Declaran de interés y necesidad pública la lucha contra la tuberculosis en la Región Callao | 1 | 2012-04-15 to 2012-04-15 |
+| `ordenanza-regional-000010-2012` | Ordenanza Regional N° 000010 (2012): Modifican la Ordenanza Regional N° 000004 en extremo referido al Cuadro de Asignación de Personal del Comité de Administración del Fondo Educativo del Callao | 1 | 2012-04-15 to 2012-04-15 |
+| `ordenanza-regional-000006-2012` | Ordenanza Regional N° 000006 (2012): Modifican Reglamento de Organización y Funciones del Gobierno Regional del Callao | 1 | 2012-04-15 to 2012-04-15 |
+| `ordenanza-regional-000005-2012` | Ordenanza Regional N° 000005 (2012): Aprueban la "Microzonificación Ecológica Económica de la Provincia Constitucional del Callao - Versión Actualizada 2011" | 1 | 2012-03-13 to 2012-03-13 |
+| `ordenanza-regional-000004-2012` | Ordenanza Regional N° 000004 (2012): Modifican Reglamento, ROF, Estructura Orgánica y CAP del Comité de Administración del Fondo Educativo del Callao (CAFED) | 1 | 2012-03-13 to 2012-03-13 |
+| `ordenanza-regional-000002-2012` | Ordenanza Regional N° 000002 (2012): Definen condiciones para el otorgamiento de la autorización para el uso del derecho de vía en la ejecución de obras | 1 | 2012-03-10 to 2012-03-10 |
+| `ordenanza-regional-000001-2012` | Ordenanza Regional N° 000001 (2012): Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Educación del Callao - DREC | 1 | 2012-02-25 to 2012-02-25 |
+| `ordenanza-regional-000024-2012` | Ordenanza Regional N° 000024 (2012): Disponen medidas prioritarias para la atención de la violencia familiar y sexual en la Provincia Constitucional del Callao | 1 | 2012-01-10 to 2012-01-10 |
+| `ordenanza-regional-000025-2012` | Ordenanza Regional N° 000025 (2012): Aprueban Plan Regional de Prevención y Tratamiento del Consumo de Drogas en al Región Callao 2011 - 2014 a nivel educativo, sanitario y comunal | 1 | 2012-01-10 to 2012-01-10 |
+| `ordenanza-regional-000026-2012` | Ordenanza Regional N° 000026 (2012): Declaran de interés y necesidad pública la reducción de la mortalidad materna y perinatal en la Región Callao | 1 | 2012-01-10 to 2012-01-10 |
+| `ordenanza-regional-000028-2012` | Ordenanza Regional N° 000028 (2012): Aprueban Texto Único Ordenado del Reglamento de Organización y Funciones del Gobierno Regional del Callao | 1 | 2012-01-10 to 2012-01-10 |
+| `ordenanza-regional-000022` | Ordenanza Regional N° 000022: Regulan el otorgamiento de Licencias de Conducir de la Clase "A" y sus diferentes categorías a cargo del Gobierno Regional del Callao | 1 | 2011-09-27 to 2011-09-27 |
+| `ordenanza-regional-000023` | Ordenanza Regional N° 000023: Regulan la prestación del Servicio de Transporte Turístico Acuático en la Provincia Constitucional del Callao | 1 | 2011-09-27 to 2011-09-27 |
+| `ordenanza-regional-000019-2011` | Ordenanza Regional N° 000019 (2011): Modifican Reglamento de Organización y Funciones y la Estructura Orgánica del Gobierno Regional del Callao | 1 | 2011-08-07 to 2011-08-07 |
+| `ordenanza-regional-000020-2011` | Ordenanza Regional N° 000020 (2011): Aprueban Reglamento de Organización y Funciones y Cuadro para Asignación de Personal de la Dirección Regional de Trabajo y Promoción del Empleo del Callao del Gobierno Regional del Callao | 1 | 2011-08-05 to 2011-08-05 |
+| `ordenanza-regional-000021-2011` | Ordenanza Regional N° 000021 (2011): Modifican el Cuadro de Asignación de Personal - CAP del Gobierno Regional del Callao | 1 | 2011-08-05 to 2011-08-05 |
+| `ordenanza-regional-000017-2011` | Ordenanza Regional N° 000017 (2011): Modifican la Ordenanza Regional N° 015-2004-REGION-CALLAO-CR, Reglamento de las Audiencias Públicas Regionales del Callao | 1 | 2011-07-14 to 2011-07-14 |
+| `ordenanza-regional-000016-2011` | Ordenanza Regional N° 000016 (2011): Modifican la Ordenanza Regional N° 000002-2011 del Gobierno Regional del Callao | 1 | 2011-07-05 to 2011-07-05 |
+| `ordenanza-regional-000014-2011` | Ordenanza Regional N° 000014 (2011): Aprueban la creación del Sistema Regional de Cuidadores Domiciliarios del Adulto Mayor | 1 | 2011-06-27 to 2011-06-27 |
+| `ordenanza-regional-000015-2011` | Ordenanza Regional N° 000015 (2011): Modifican el Reglamento Interno del Consejo Regional del Callao | 1 | 2011-06-27 to 2011-06-27 |
+| `ordenanza-regional-000013-2011` | Ordenanza Regional N° 000013 (2011): Crean la Gerencia Regional de Transportes y Comunicaciones y modifican el Regalmento de Organización y Funciones y la Estructura Orgánica del Gobierno Regional del Callao | 1 | 2011-06-01 to 2011-06-01 |
+| `ordenanza-regional-000012-2011` | Ordenanza Regional N° 000012 (2011): Aprueban Reglamento del Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2012 del Gobierno Regional del Callao | 1 | 2011-05-22 to 2011-05-22 |
+| `ordenanza-regional-0000011` | Ordenanza Regional N° 0000011: Modifican la Ordenanza N° 006-2007 a fin que los Comités Regionales puedan participar como Agentes Participantes en los Consejos de Coordinación Regional y en los Presupuestos Participativos | 1 | 2011-04-29 to 2011-04-29 |
+| `ordenanza-regional-0000010` | Ordenanza Regional N° 0000010: Modifican la Ordenanza N° 006-2007 que regula los Comités Juveniles Regionales de la Provincia Constitucional del Callao | 1 | 2011-04-08 to 2011-04-08 |
+| `ordenanza-regional-000009-2011` | Ordenanza Regional N° 000009 (2011): Modifican el Cuadro de Asignación de Personal de la DIRESA y de las Direcciones de Red de Salud: Bonilla - La Punta, Bepeca y Ventanilla | 1 | 2011-03-25 to 2011-03-25 |
+| `ordenanza-regional-000008-2011` | Ordenanza Regional N° 000008 (2011): Aprueban Reglamento de Organización y Funciones del Hospital San José del Gobierno Regional del Callao | 1 | 2011-03-12 to 2011-03-12 |
+| `ordenanza-regional-004-2011` | Ordenanza Regional N° 004 (2011): Establecen el Programa de Incentivos Tributarios "Cumple más y paga menos 2011" | 1 | 2011-01-30 to 2011-01-30 |
+| `ordenanza-regional-000006-2011` | Ordenanza Regional N° 000006 (2011): Modifican Reglamento de Organización y Funciones del Gobierno Regional del Callao | 1 | 2011-01-29 to 2011-01-29 |
+| `ordenanza-regional-000007-2011` | Ordenanza Regional N° 000007 (2011): Modifican Estructura Orgánica, el Reglamento de Organización y Funciones y Cuadro para Asignación de Personal del Comité de Administración del Fondo Educativo del Callao | 1 | 2011-01-29 to 2011-01-29 |
+| `ordenanza-regional-000004-2011` | Ordenanza Regional N° 000004 (2011): Aprueban Ordenanza que dispone la obligatoriedad de desarrollar el curso de Educación Cívica en Instituciones Educativas Públicas en el ámbito de la Región Callao | 1 | 2011-01-27 to 2011-01-27 |
+| `ordenanza-regional-000005-2011` | Ordenanza Regional N° 000005 (2011): Aprueban inclusión del área del Idioma Extranjero Inglés en el Plan de Estudios de la Educación Básica Regular en los niveles inicial y primaria en las Instituciones Educativas Públicas de la Provincia Constitucional del Callao | 1 | 2011-01-27 to 2011-01-27 |
+| `ordenanza-regional-000001-2011` | Ordenanza Regional N° 000001 (2011): Modifican el Reglamento de Organización y Funciones del Gobierno Regional del Callao | 1 | 2011-01-10 to 2011-01-10 |
+| `ordenanza-regional-006-2010` | Ordenanza Regional N° 006 (2010): Aprueban "Inclusión de Contenidos de Comercio Exterior en áreas curriculares del VII Ciclo de Educación Básica Regular de las Instituciones Educativas en la Provincia Constitucional del Callao" | 1 | 2010-08-05 to 2010-08-05 |
+| `ordenanza-regional-004-2010` | Ordenanza Regional N° 004 (2010): Aprueban modificación a los Cuadros para Asignación de Personal de la Dirección Regional de Salud del Callao y de las Direcciones de Redes de Salud Bonilla - La Punta, BEPECA, Ventanilla y del Hospital de Ventanilla | 1 | 2010-05-16 to 2010-05-16 |
+| `ordenanza-regional-002-2010` | Ordenanza Regional N° 002 (2010): Crean el Consejo Regional de Fomento Artesanal del Callao - COREFARC | 1 | 2010-03-27 to 2010-03-27 |
+| `ordenanza-regional-014` | Ordenanza Regional N° 014: Aprueban medidas para la inclusión al desarrollo de las personas con discapacidad en el Gobierno Regional del Callao | 1 | 2009-12-05 to 2009-12-05 |
+| `ordenanza-regional-012-2009` | Ordenanza Regional N° 012 (2009): Crean la Gerencia Regional de Defensa Nacional y Defensa Civil | 1 | 2009-11-26 to 2009-11-26 |
+| `ordenanza-regional-011-2009` | Ordenanza Regional N° 011 (2009): Incorporan procedimientos administrativos de la Dirección Regional de Salud y de sus órganos desconcentrados en el TUPA del Gobierno Regional del Callao | 1 | 2009-11-11 to 2009-11-11 |
+| `ordenanza-regional-009-2009` | Ordenanza Regional N° 009 (2009): Establecen la Autoridad de Salud en la Provincia Constitucional del Callao | 1 | 2009-08-29 to 2009-08-29 |
+| `ordenanza-regional-008-2009` | Ordenanza Regional N° 008 (2009): Aprueban Microzonificación Ecológica y Económica de la Provincia Constitucional del Callao | 1 | 2009-08-21 to 2009-08-21 |
+
+The build made 190 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 148 | first version of an act |
+| 190 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 148 laws in the record.
-- 296 tags.
+- 190 laws in the record.
+- 380 tags.
 
 ## Dates
 
@@ -190,7 +234,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `21be091079227f16fbbbabbbf11aa0c86bb23a25e423634630ac5b3270e94786` (1924365 bytes).
+- Corpus: sha256 `5a9c23a2f06561118d7c64d1fc2eaa9da7d75d1adb917710fc185aa470745540` (2359133 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

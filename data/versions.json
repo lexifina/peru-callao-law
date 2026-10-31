@@ -2072,6 +2072,594 @@
      "sha256": "1aa19ad3f9b263acc34c4df8cc29c48c729db00a16367f69727f9f1f00c2f331"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-000019-2012",
+   "short": "Ordenanza Regional N° 000019 (2012)",
+   "title": "Ordenanza Regional N° 000019 (2012): Aprueban la modificación del Cuadro para Asignación de Personal de la Dirección Regional de Salud del Callao, de las Direcciones de Redes de Salud Bonilla-La Punta, BEPECA y Ventanilla, y del Hospital de Ventanilla",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/799070-1",
+   "versions": [
+    {
+     "from": "2012-06-12",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EGQ_hNbgqSTAF7q1FwR-h3/*/799070-1.pdf",
+     "sha256": "192db10b843f6c2abf5aba47b56b7f2804e1c977434e06cab7bd4a45a711b528"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000011-2012",
+   "short": "Ordenanza Regional N° 000011 (2012)",
+   "title": "Ordenanza Regional N° 000011 (2012): Aprueban nuevos procedimientos administrativos y servicios prestados en exclusividad de la Dirección Regional de Salud del Callao y la modificación de su TUPA\n\n.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/777762-1",
+   "versions": [
+    {
+     "from": "2012-04-20",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6zCTpaYV4KT93Ia6s1-us2/*/777762-1.pdf",
+     "sha256": "0e12476325676644fc5dac77b13997ddf6e338d90a04e30d2e887071d9b6ffa8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000007-2012",
+   "short": "Ordenanza Regional N° 000007 (2012)",
+   "title": "Ordenanza Regional N° 000007 (2012): Declaran de interés y necesidad pública la lucha contra la tuberculosis en la Región Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/775797-1",
+   "versions": [
+    {
+     "from": "2012-04-15",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EOHxGbmIqYwBycYWUDpo_9/*/775797-1.pdf",
+     "sha256": "cc8ed4ac604adea1ac66678d1ae8fd7d5d0c315d7a5cfe5175208ff697a3b68a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000010-2012",
+   "short": "Ordenanza Regional N° 000010 (2012)",
+   "title": "Ordenanza Regional N° 000010 (2012): Modifican la Ordenanza Regional N° 000004 en extremo referido al Cuadro de Asignación de Personal del Comité de Administración del Fondo Educativo del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/775797-4",
+   "versions": [
+    {
+     "from": "2012-04-15",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0VCXCWAUaH4AtB8-8nY0th/*/775797-4.pdf",
+     "sha256": "ed10604c4e5373e7b3a89a5b9117f0d095fba06e957cc391b8449dddcb8ba327"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000006-2012",
+   "short": "Ordenanza Regional N° 000006 (2012)",
+   "title": "Ordenanza Regional N° 000006 (2012): Modifican Reglamento de Organización y Funciones del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/775761-1",
+   "versions": [
+    {
+     "from": "2012-04-15",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4ruv6xPVKEpBhIL1iTJ53z/*/775761-1.pdf",
+     "sha256": "95fa12f82deecc5c2106d340fed59ed414619c6149de2f782b3f97908d8eae36"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000005-2012",
+   "short": "Ordenanza Regional N° 000005 (2012)",
+   "title": "Ordenanza Regional N° 000005 (2012): Aprueban la \"Microzonificación Ecológica Económica de la Provincia Constitucional del Callao - Versión Actualizada 2011\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/761726-1",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8syHSQA4KoxAr0tFTnm79z/*/761726-1.pdf",
+     "sha256": "b413cabb1bf9c8846398bfb44ce97423f0f0508576736b4d342db97a5e64f47a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000004-2012",
+   "short": "Ordenanza Regional N° 000004 (2012)",
+   "title": "Ordenanza Regional N° 000004 (2012): Modifican Reglamento, ROF, Estructura Orgánica y CAP del Comité de Administración del Fondo Educativo del Callao (CAFED)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/761720-1",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8hdWpc8RKU-Bv5X8dtziqn/*/761720-1.pdf",
+     "sha256": "455f49154b7b40d679213745a22f84c3774ed37c231b3d2b5f282fea2b1a746e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000002-2012",
+   "short": "Ordenanza Regional N° 000002 (2012)",
+   "title": "Ordenanza Regional N° 000002 (2012): Definen condiciones para el otorgamiento de la autorización para el uso del derecho de vía en la ejecución de obras",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/760926-1",
+   "versions": [
+    {
+     "from": "2012-03-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8FAMgGbca119D_nIIFLjFp/*/760926-1.pdf",
+     "sha256": "f8da28ab423fdb81a2518e50eb2b2a6b6aa24141efe6cdb0a6cbda649dd33303"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000001-2012",
+   "short": "Ordenanza Regional N° 000001 (2012)",
+   "title": "Ordenanza Regional N° 000001 (2012): Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Educación del Callao - DREC",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/755418-1",
+   "versions": [
+    {
+     "from": "2012-02-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/31LbeFHqKzS8NkDyXbrCYM/*/755418-1.pdf",
+     "sha256": "f79ea1b71c90562929accfda67b363c92eb04dff331b010fdac55ba8050c44d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000024-2012",
+   "short": "Ordenanza Regional N° 000024 (2012)",
+   "title": "Ordenanza Regional N° 000024 (2012): Disponen medidas prioritarias para la atención de la violencia familiar y sexual en la Provincia Constitucional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/737731-1",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AGjkOexzKdtAeKo1EDmjJ2/*/737731-1.pdf",
+     "sha256": "88f803371d80c2dff57c288189fe3d62e1355f519e99f98bc169b19290a0f1b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000025-2012",
+   "short": "Ordenanza Regional N° 000025 (2012)",
+   "title": "Ordenanza Regional N° 000025 (2012): Aprueban Plan Regional de Prevención y Tratamiento del Consumo de Drogas en al Región Callao 2011 - 2014 a nivel educativo, sanitario y comunal",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/737439-2",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 1,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3xV7QltAqD58kkC7NvrVMV/*/737439-2.pdf",
+     "sha256": "a4e8d4b31a08102e33060c5d231ed59ac7e810e7d9e6d8335ed6e3e31748cbd5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000026-2012",
+   "short": "Ordenanza Regional N° 000026 (2012)",
+   "title": "Ordenanza Regional N° 000026 (2012): Declaran de interés y necesidad pública la reducción de la mortalidad materna y perinatal en la Región Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/737439-3",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1A9Q9jjTKV-A-V2NdD1Uy9/*/737439-3.pdf",
+     "sha256": "214590b5b3e75d7cda3b562a90d50a018037c541ed7a4eeafa3a39c385faab42"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000028-2012",
+   "short": "Ordenanza Regional N° 000028 (2012)",
+   "title": "Ordenanza Regional N° 000028 (2012): Aprueban Texto Único Ordenado del Reglamento de Organización y Funciones del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/737437-1",
+   "versions": [
+    {
+     "from": "2012-01-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BXuQrvXaK8u8GH3h8Qegvq/*/737437-1.pdf",
+     "sha256": "98b6f488e3c244ee94de017ef68563820b0013c3f89fda9d5a1abd667c1c572c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000022",
+   "short": "Ordenanza Regional N° 000022",
+   "title": "Ordenanza Regional N° 000022: Regulan el otorgamiento de Licencias de Conducir de la Clase \"A\" y sus diferentes categorías a cargo del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/694953-1",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E4vByTQnKxg9in1LWg-8KQ/*/694953-1.pdf",
+     "sha256": "0b006b7e496fdc6403bc8b77ae80e9c130221d2c306922ff1bb928dfc86ce609"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000023",
+   "short": "Ordenanza Regional N° 000023",
+   "title": "Ordenanza Regional N° 000023: Regulan la prestación del Servicio de Transporte Turístico Acuático en la Provincia Constitucional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/694953-2",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/El07XH4_qIX8Qd4-rkAnZ7/*/694953-2.pdf",
+     "sha256": "f84d97d73dbe2c8ea4001a3d50dda410685ab21b0ffe46cbc309c314af2dddfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000019-2011",
+   "short": "Ordenanza Regional N° 000019 (2011)",
+   "title": "Ordenanza Regional N° 000019 (2011): Modifican Reglamento de Organización y Funciones y la Estructura Orgánica del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/673494-1",
+   "versions": [
+    {
+     "from": "2011-08-07",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9zWXuL4CaPsAtBqbIY_7k2/*/673494-1.pdf",
+     "sha256": "52c0d4e511fed1eb85856ee0a9e266ea019d03e6d3d070679806542f4fa30a69"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000020-2011",
+   "short": "Ordenanza Regional N° 000020 (2011)",
+   "title": "Ordenanza Regional N° 000020 (2011): Aprueban Reglamento de Organización y Funciones y Cuadro para Asignación de Personal de la Dirección Regional de Trabajo y Promoción del Empleo del Callao del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/672733-1",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9Am5qKKCagO9TuaSRx-hfr/*/672733-1.pdf",
+     "sha256": "6f7cab26ab49c85234084fc25ce054eab9c2d8fd079817e160ef7677c367bfc2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000021-2011",
+   "short": "Ordenanza Regional N° 000021 (2011)",
+   "title": "Ordenanza Regional N° 000021 (2011): Modifican el Cuadro de Asignación de Personal - CAP del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/672702-1",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/23ghiVjnqIeBB7wdH1cYZ_/*/672702-1.pdf",
+     "sha256": "98e6e3c3115287d0b2d6eddf5b7931b46511a7c2e9b233ca6a805842a6f413e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000017-2011",
+   "short": "Ordenanza Regional N° 000017 (2011)",
+   "title": "Ordenanza Regional N° 000017 (2011): Modifican la Ordenanza Regional N° 015-2004-REGION-CALLAO-CR, Reglamento de las Audiencias Públicas Regionales del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/663677-1",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4m44JuKrasy8xyPFwvAbJr/*/663677-1.pdf",
+     "sha256": "30cbe3103193b6830792778dce4266610257a2e57a74670b25c56ba9e4ffc685"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000016-2011",
+   "short": "Ordenanza Regional N° 000016 (2011)",
+   "title": "Ordenanza Regional N° 000016 (2011): Modifican la Ordenanza Regional N° 000002-2011 del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/660304-1",
+   "versions": [
+    {
+     "from": "2011-07-05",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0WIHqQfUqiq8myf91K8cX3/*/660304-1.pdf",
+     "sha256": "8106a201315df596cf2c0b2cc3421da1d6992e280815f585640c03e99b457cfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000014-2011",
+   "short": "Ordenanza Regional N° 000014 (2011)",
+   "title": "Ordenanza Regional N° 000014 (2011): Aprueban la creación del Sistema Regional de Cuidadores Domiciliarios del Adulto Mayor",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657966-1",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D2HflMgD4BwBfFD9eIViuH/*/657966-1.pdf",
+     "sha256": "f58068f68820d52447c543fe8a7e1c7b7497f7ce18053419599da1432ab0c751"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000015-2011",
+   "short": "Ordenanza Regional N° 000015 (2011)",
+   "title": "Ordenanza Regional N° 000015 (2011): Modifican el Reglamento Interno del Consejo Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657966-2",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2VcZcQKtaKP9ILxIB8IUoW/*/657966-2.pdf",
+     "sha256": "582ea0379e174a4ebb7f1cc0626e35f2e8901836d6dbcd7368c9e469ec92d802"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000013-2011",
+   "short": "Ordenanza Regional N° 000013 (2011)",
+   "title": "Ordenanza Regional N° 000013 (2011): Crean la Gerencia Regional de Transportes y Comunicaciones y modifican el Regalmento de Organización y Funciones y la Estructura Orgánica del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/646701-1",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1rsdeioLqBj8Lkk4xBjfRH/*/646701-1.pdf",
+     "sha256": "312709ef4d075d1b127110616c88286d0ea4ecf57181b1ef34b92926dcc3d175"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000012-2011",
+   "short": "Ordenanza Regional N° 000012 (2011)",
+   "title": "Ordenanza Regional N° 000012 (2011): Aprueban Reglamento del Proceso del Presupuesto Participativo para el Ejercicio Fiscal 2012 del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/642964-1",
+   "versions": [
+    {
+     "from": "2011-05-22",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EWbViPxNaAeA_v-nHhllUI/*/642964-1.pdf",
+     "sha256": "6de67eee7fefc23a0239bba915d05dcc48090a65616f92096964ce90e430317c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0000011",
+   "short": "Ordenanza Regional N° 0000011",
+   "title": "Ordenanza Regional N° 0000011: Modifican la Ordenanza N° 006-2007 a fin que los Comités Regionales puedan participar como Agentes Participantes en los Consejos de Coordinación Regional y en los Presupuestos Participativos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/633190-1",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EhPuofT0KtCB4s0eSKB9F9/*/633190-1.pdf",
+     "sha256": "c16a46dfb14e1fcbf72057673a1ab6cd3a670f610c348fe00b6f9260f01c92f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-0000010",
+   "short": "Ordenanza Regional N° 0000010",
+   "title": "Ordenanza Regional N° 0000010: Modifican la Ordenanza N° 006-2007 que regula los Comités Juveniles Regionales de la Provincia Constitucional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/624718-1",
+   "versions": [
+    {
+     "from": "2011-04-08",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5gMllsh0KJS9PLn-qi60bt/*/624718-1.pdf",
+     "sha256": "82bf8caf9a4ed43cbc218c9b76af33b45225a8e30aa77b0acb98643422f9a2e9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000009-2011",
+   "short": "Ordenanza Regional N° 000009 (2011)",
+   "title": "Ordenanza Regional N° 000009 (2011): Modifican el Cuadro de Asignación de Personal de la DIRESA y de las Direcciones de Red de Salud: Bonilla - La Punta, Bepeca y Ventanilla",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/618619-1",
+   "versions": [
+    {
+     "from": "2011-03-25",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CpZqT58TqCW8zHfzunAeLq/*/618619-1.pdf",
+     "sha256": "a88e0c531ec124a3ff9818878d72983035160b615c173c7eba717f5bb5650707"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000008-2011",
+   "short": "Ordenanza Regional N° 000008 (2011)",
+   "title": "Ordenanza Regional N° 000008 (2011): Aprueban Reglamento de Organización y Funciones del Hospital San José del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/612422-1",
+   "versions": [
+    {
+     "from": "2011-03-12",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2DflW3Ixav18xfhdx_fFGY/*/612422-1.pdf",
+     "sha256": "a87a4edd09bbad4d77f971eabe3a2a187e37de37548c21357f725a5597225619"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2011",
+   "short": "Ordenanza Regional N° 004 (2011)",
+   "title": "Ordenanza Regional N° 004 (2011): Establecen el Programa de Incentivos Tributarios \"Cumple más y paga menos 2011\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/596975-1",
+   "versions": [
+    {
+     "from": "2011-01-30",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/13oBr1t_q5WAZA6jRwDb0Q/*/596975-1.pdf",
+     "sha256": "cb6652437bea622b386fb1e446ec4c9d831bf497e97b35ca591a966a6610914a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000006-2011",
+   "short": "Ordenanza Regional N° 000006 (2011)",
+   "title": "Ordenanza Regional N° 000006 (2011): Modifican Reglamento de Organización y Funciones del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/595609-1",
+   "versions": [
+    {
+     "from": "2011-01-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CykhvoaqaCHB8BR8VUAyB1/*/595609-1.pdf",
+     "sha256": "08274740e2360519c9121facecd8c338283eb02ced64a80d77f4d0d19182364a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000007-2011",
+   "short": "Ordenanza Regional N° 000007 (2011)",
+   "title": "Ordenanza Regional N° 000007 (2011): Modifican Estructura Orgánica, el Reglamento de Organización y Funciones y Cuadro para Asignación de Personal del Comité de Administración del Fondo Educativo del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/595609-2",
+   "versions": [
+    {
+     "from": "2011-01-29",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2JxHS-XNqHj8yVQDLUqMDr/*/595609-2.pdf",
+     "sha256": "0e022cf2adb28a0d758397dc907793eec0e23e1d1eed02ce88b080db143ae5ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000004-2011",
+   "short": "Ordenanza Regional N° 000004 (2011)",
+   "title": "Ordenanza Regional N° 000004 (2011): Aprueban Ordenanza que dispone la obligatoriedad de desarrollar el curso de Educación Cívica en Instituciones Educativas Públicas en el ámbito de la Región Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/594791-1",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4PRdKe2x4pJANDXf-A70oq/*/594791-1.pdf",
+     "sha256": "44b5b6b771b96122940baf2fd4c8fa5270f50f39d7ef84f739b6a8a3f8544705"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000005-2011",
+   "short": "Ordenanza Regional N° 000005 (2011)",
+   "title": "Ordenanza Regional N° 000005 (2011): Aprueban inclusión del área del Idioma Extranjero Inglés en el Plan de Estudios de la Educación Básica Regular en los niveles inicial y primaria en las Instituciones Educativas Públicas de la Provincia Constitucional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/594791-2",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2reNu2Xf44Q8OGsFRg95eX/*/594791-2.pdf",
+     "sha256": "1010bd6a00d3bae3494c8ba5cacf6a5a5042a1107960289583dfca663dd13896"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-000001-2011",
+   "short": "Ordenanza Regional N° 000001 (2011)",
+   "title": "Ordenanza Regional N° 000001 (2011): Modifican el Reglamento de Organización y Funciones del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/586918-1",
+   "versions": [
+    {
+     "from": "2011-01-10",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FASImRwWa7n8F9AWSQwLr9/*/586918-1.pdf",
+     "sha256": "1be6955a719a1ff7174c88cc22e86241b0456247469d63913c4d1c7bce83fe7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2010",
+   "short": "Ordenanza Regional N° 006 (2010)",
+   "title": "Ordenanza Regional N° 006 (2010): Aprueban \"Inclusión de Contenidos de Comercio Exterior en áreas curriculares del VII Ciclo de Educación Básica Regular de las Instituciones Educativas en la Provincia Constitucional del Callao\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/525438-1",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7dz0jfYS4JFBnS00ql4weG/*/525438-1.pdf",
+     "sha256": "131884e775fd89770b47bc4cd3aeb9d6e1a86c8bf268dde0d56f1795345f1772"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2010",
+   "short": "Ordenanza Regional N° 004 (2010)",
+   "title": "Ordenanza Regional N° 004 (2010): Aprueban modificación a los Cuadros para Asignación de Personal de la Dirección Regional de Salud del Callao y de las Direcciones de Redes de Salud Bonilla - La Punta, BEPECA, Ventanilla y del Hospital de Ventanilla",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/493455-2",
+   "versions": [
+    {
+     "from": "2010-05-16",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/88BC6sUfqYe9p6gbScKmMV/*/493455-2.pdf",
+     "sha256": "7382c233b4e5a517ffee13fcecf71e6504d890c423880e8c1200f76ec934ad39"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2010",
+   "short": "Ordenanza Regional N° 002 (2010)",
+   "title": "Ordenanza Regional N° 002 (2010): Crean el Consejo Regional de Fomento Artesanal del Callao - COREFARC",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/473391-1",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8irpQAbc4Rp9APPPPZ3Jlm/*/473391-1.pdf",
+     "sha256": "6713942890d73d6f2a79a8ddba636958e711bae6102bcc102a08c296a650d205"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014",
+   "short": "Ordenanza Regional N° 014",
+   "title": "Ordenanza Regional N° 014: Aprueban medidas para la inclusión al desarrollo de las personas con discapacidad en el Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/430535-1",
+   "versions": [
+    {
+     "from": "2009-12-05",
+     "units": 29,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0KzEkmBKqmSAOSI4wQSu4P/*/430535-1.pdf",
+     "sha256": "6552cb9504cdf5943cb0b2a5cd46d6c154212e1a36382b63215e4f1e1235cf4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2009",
+   "short": "Ordenanza Regional N° 012 (2009)",
+   "title": "Ordenanza Regional N° 012 (2009): Crean la Gerencia Regional de Defensa Nacional y Defensa Civil",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/425821-1",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1b027SYvao59uwzrmxw1zc/*/425821-1.pdf",
+     "sha256": "e044272c1a7abb60307bd6d9e6ceec1f1be15e9c53e35e6bd44b00f39ba3cd31"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2009",
+   "short": "Ordenanza Regional N° 011 (2009)",
+   "title": "Ordenanza Regional N° 011 (2009): Incorporan procedimientos administrativos de la Dirección Regional de Salud y de sus órganos desconcentrados en el TUPA del Gobierno Regional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/420206-2",
+   "versions": [
+    {
+     "from": "2009-11-11",
+     "units": 2,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FG4MQfvq4CNAodUtOS0FbC/*/420206-2.pdf",
+     "sha256": "f598dbaa8a09c3621434cb21c258f8ddf23cff0d2e3be6dc9f75c84f57d9e4ae"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2009",
+   "short": "Ordenanza Regional N° 009 (2009)",
+   "title": "Ordenanza Regional N° 009 (2009): Establecen la Autoridad de Salud en la Provincia Constitucional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/389624-1",
+   "versions": [
+    {
+     "from": "2009-08-29",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/FYgD-OAsKbD8Y7kCvJprUS/*/389624-1.pdf",
+     "sha256": "7692919935b9b9bc2668ebb29116d9d59a664ca0eef1106e0cea98d9f8ac62ad"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2009",
+   "short": "Ordenanza Regional N° 008 (2009)",
+   "title": "Ordenanza Regional N° 008 (2009): Aprueban Microzonificación Ecológica y Económica de la Provincia Constitucional del Callao",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/385840-1",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/514vr3dX4UeB4FHvt4Vpq2/*/385840-1.pdf",
+     "sha256": "65ba10ff3b9801080d404e32ea5dafd0a2bd2ecc46993f0c2d9a7533224733fa"
+    }
+   ]
   }
  ]
 }
