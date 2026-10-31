@@ -1,0 +1,13 @@
+# Ordenanza Regional N° 000008: Ordenanza Regional que aprueba los Procedimientos Administrativos y Servicios Prestados en Exclusividad, requisitos, costos y derechos de tramitación y el Texto Único de Procedimientos Administrativos - TUPA del Gobierno Regional del Callao
+
+Ordenanza Regional N° 000008 · 1 versions, from 2018-11-18 (latest in force: 2018-11-18) · <https://busquedas.elperuano.pe/dispositivo/NL/1713025-1>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Artículo 4 | [art-004.md](art-004.md) | 0 |  |
+| Artículo 5 | [art-005.md](art-005.md) | 0 |  |
+| Artículo 6 | [art-006.md](art-006.md) | 0 |  |
+| Artículo 8 | [art-008.md](art-008.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |

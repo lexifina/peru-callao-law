@@ -1,0 +1,11 @@
+{
+  "path": "pe-cal",
+  "code": "PE-CAL",
+  "name": "Callao",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-callao-law",
+  "build": "built: 117 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
