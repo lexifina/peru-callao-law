@@ -134,20 +134,51 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-000027` | Ordenanza Regional N° 000027: Modifican el Reglamento de Organización y Funciones del Gobierno Regional del Callao | 1 | 2012-01-10 to 2012-01-10 |
 | `ordenanza-regional-000016-2013` | Ordenanza Regional N° 000016 (2013): Prorrogan plazo previsto en el Artículo Primero de la Ordenanza Regional N° 00001 | 1 | 2013-09-09 to 2013-09-09 |
 | `ordenanza-regional-000013-2013` | Ordenanza Regional N° 000013 (2013): Aprueban Reglamento del Proceso del Presupuesto Participativo Basado en Resultados 2014, del Gobierno Regional del Callao | 1 | 2013-05-24 to 2013-05-24 |
+| `ordenanza-regional-005-2020` | Ordenanza Regional N° 005 (2020): Declaran como prioridad pública regional el desarrollo infantil temprano y aprueban la estrategia de gestión territorial " Primero la Infancia" en la Región Callao | 1 | 2020-09-18 to 2020-09-18 |
+| `ordenanza-regional-000008-2015` | Ordenanza Regional N° 000008 (2015): Aprueban modificación del Reglamento de Organización y Funciones - ROF y la Estructura Orgánica del Gobierno Regional del Callao | 1 | 2015-06-27 to 2015-06-27 |
+| `ordenanza-regional-000005-2015` | Ordenanza Regional N° 000005 (2015): Aprueban Cuadro para Asignación de Personal Provisional de la Dirección Regional de Salud del Callao y otros | 1 | 2015-05-21 to 2015-05-21 |
+| `ordenanza-regional-000004-2015` | Ordenanza Regional N° 000004 (2015): Ordenanza Regional que institucionaliza y declara el Tercer Sábado de Abril como el "Día del Turismo Chalaco" a Nivel Regional | 1 | 2015-04-18 to 2015-04-18 |
+| `ordenanza-regional-000017-2013` | Ordenanza Regional N° 000017 (2013): Conforman la Mesa Regional para la Atención de las Personas Adultas Mayores de la Región Callao | 1 | 2013-09-09 to 2013-09-09 |
+| `ordenanza-regional-0000015` | Ordenanza Regional N° 0000015: Precisan el artículo segundo de la Ordenanza Regional N° 000007 que dispone la protección y conservación de predios de titularidad del Gobierno Regional del Callao y de los predios del Estado bajo su administración, a efectos de permitir el saneamiento técnico físico l | 1 | 2013-09-06 to 2013-09-06 |
+| `ordenanza-regional-000014-2013` | Ordenanza Regional N° 000014 (2013): Modifican el Reglamento de Organización y Funciones del Gobierno Regional del Callao | 1 | 2013-07-19 to 2013-07-19 |
+| `ordenanza-regional-000009-2013` | Ordenanza Regional N° 000009 (2013): Crean la Comisión Regional  Anticorrupción del Gobierno Regional del Callao | 1 | 2013-04-12 to 2013-04-12 |
+| `ordenanza-regional-000011-2013` | Ordenanza Regional N° 000011 (2013): Aprueban modificaciones del Cuadro para Asignación de Personal de la Dirección Regional de Salud del Callao, de las 3 Direcciones de Redes de Salud Bonilla - La Punta, BEPECA, Ventanilla y de la Unidad Ejecutora Hospital de Ventanilla | 1 | 2013-04-08 to 2013-04-08 |
+| `ordenanza-regional-000010-2013` | Ordenanza Regional N° 000010 (2013): Aprueban modificación del Cuadro para Asignación de Personal del Hospital de Apoyo San José | 1 | 2013-04-08 to 2013-04-08 |
+| `ordenanza-regional-000007-2013` | Ordenanza Regional N° 000007 (2013): Disponen la protección y conservación de predios de titularidad del Gobierno Regional del Callao y de predios del Estado bajo su administración, a efectos de permitir el saneamiento físico legal | 1 | 2013-03-16 to 2013-03-16 |
+| `ordenanza-regional-000006-2013` | Ordenanza Regional N° 000006 (2013): Aprueban el Reglamento de Organización y Funciones del Hospital Nacional Daniel Alcides Carrión | 1 | 2013-03-16 to 2013-03-16 |
+| `ordenanza-regional-000005-2013` | Ordenanza Regional N° 000005 (2013): Aprueban lista de alimentos saludables recomendado para su expendio en los quioscos escolares de las instituciones educativas en la Región Callao | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-000003-2013` | Ordenanza Regional N° 000003 (2013): Aprueban el Plan de Acción Ambiental del Callao - PAAC 2013 - 2021 | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-000004-2013` | Ordenanza Regional N° 000004 (2013): Constituyen la Comisión Regional de Sanciones en Temas de Pesca y aprueban Reglamento de Inspecciones y Sanciones Pesqueras y Acuícolas Regional del Gobierno Regional del Callao | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-000002-2013` | Ordenanza Regional N° 000002 (2013): Aprueban la Política Ambiental Regional del Callao | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-000001-2013` | Ordenanza Regional N° 000001 (2013): Prorrogan plazo previsto en la Ordenanza Regional N° 000025, que dispuso suspender vigencia de la Ordenanza Regional N° 000012, mediante la cual se aprobaron disposiciones relativas a la administración del transporte de mercancías de ámbito regional. | 1 | 2013-02-16 to 2013-02-16 |
+| `ordenanza-regional-000038` | Ordenanza Regional N° 000038: Aprueban creación de la Unidad Ejecutora denominada Hospital de Ventanilla, su Reglamento de Organización y Funciones y el Cuadro para Asignación de Personal | 1 | 2012-12-21 to 2012-12-21 |
+| `ordenanza-regional-000034` | Ordenanza Regional N° 000034: Conforman la Mesa Regional para la prevención, atención y sanción de casos de Trata de Personas en la Región Callao | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-000035` | Ordenanza Regional N° 000035: Declaran de interés y necesidad pública la lucha contra los daños no transmisibles | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-000036` | Ordenanza Regional N° 000036: Declaran vía de acceso restringido a vehículos menores motorizados y no motorizados a la Avenida Néstor Gambetta en la Región Callao | 1 | 2012-12-01 to 2012-12-01 |
+| `ordenanza-regional-000032` | Ordenanza Regional N° 000032: Crean y conforman el Consejo Regional de Seguridad y Salud en el Trabajo en la Región Callao | 1 | 2012-11-06 to 2012-11-06 |
+| `ordenanza-regional-000030` | Ordenanza Regional N° 000030: Modifican la Ordenanza Regional N° 012-2004 y reconforman el Consejo Regional de Salud del Callao | 1 | 2012-09-24 to 2012-09-24 |
+| `ordenanza-regional-000029` | Ordenanza Regional N° 000029: Modifican el Artículo 8° del Reglamento de las Audiencias Públicas Regionales del Callao | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-000027-2012` | Ordenanza Regional N° 000027 (2012): Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional del Callao | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-000026` | Ordenanza Regional N° 000026: Aprueban modificación del Reglamento de Organización y Funciones de la Dirección Regional de Salud del Callao | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-000028` | Ordenanza Regional N° 000028: Aprueban modificación del Cuadro para Asignación de Personal - CAP de la Dirección Regional de Salud del Callao, de las Direcciones de Redes de Salud: Bonilla - La Punta, Bepeca, Ventanilla y del Hospital de Ventanilla | 1 | 2012-08-25 to 2012-08-25 |
+| `ordenanza-regional-000025` | Ordenanza Regional N° 000025: Suspenden vigencia de la Ordenanza Regional N° 000012 y conforman Comisión Técnica de Trabajo | 1 | 2012-08-11 to 2012-08-11 |
+| `ordenanza-regional-000024` | Ordenanza Regional N° 000024: Modifican las Ordenanzas Regionales N°s. 000020 y 000021 | 1 | 2012-08-11 to 2012-08-11 |
+| `ordenanza-regional-0000023` | Ordenanza Regional N° 0000023: Crean y conforman el "Comité Directivo Regional de Prevencion y Erradicación del Trabajo Infantil de la Región Callao - CORPETI" | 1 | 2012-06-16 to 2012-06-16 |
+| `ordenanza-regional-000021` | Ordenanza Regional N° 000021: Declaran de interés y necesidad pública la vigilancia, prevención y control del dengue en la Región Callao | 1 | 2012-06-16 to 2012-06-16 |
 
-The build made 117 commits:
+The build made 148 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 117 | first version of an act |
+| 148 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 117 laws in the record.
-- 234 tags.
+- 148 laws in the record.
+- 296 tags.
 
 ## Dates
 
@@ -159,13 +190,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `98e1507ff4c632b543f301cec8f92fb94519cdd8dcd6696380f2288f254d8732` (1592220 bytes).
+- Corpus: sha256 `21be091079227f16fbbbabbbf11aa0c86bb23a25e423634630ac5b3270e94786` (1924365 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-117 versions of 117 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

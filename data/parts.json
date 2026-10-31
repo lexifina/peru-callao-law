@@ -146,6 +146,42 @@
     "ordenanza-regional-000031"
    ],
    "sha256": "b39595fedfed1afdd0002c9e8ceeba46cdc0d1053a6d31615b233ef4915ce61d"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-000001-2013",
+    "ordenanza-regional-0000015",
+    "ordenanza-regional-000002-2013",
+    "ordenanza-regional-0000023",
+    "ordenanza-regional-000003-2013",
+    "ordenanza-regional-000004-2013",
+    "ordenanza-regional-000004-2015",
+    "ordenanza-regional-000005-2013",
+    "ordenanza-regional-000005-2015",
+    "ordenanza-regional-000006-2013",
+    "ordenanza-regional-000007-2013",
+    "ordenanza-regional-000008-2015",
+    "ordenanza-regional-000009-2013",
+    "ordenanza-regional-000010-2013",
+    "ordenanza-regional-000011-2013",
+    "ordenanza-regional-000014-2013",
+    "ordenanza-regional-000017-2013",
+    "ordenanza-regional-000021",
+    "ordenanza-regional-000024",
+    "ordenanza-regional-000025",
+    "ordenanza-regional-000026",
+    "ordenanza-regional-000027-2012",
+    "ordenanza-regional-000028",
+    "ordenanza-regional-000029",
+    "ordenanza-regional-000030",
+    "ordenanza-regional-000032",
+    "ordenanza-regional-000034",
+    "ordenanza-regional-000035",
+    "ordenanza-regional-000036",
+    "ordenanza-regional-000038",
+    "ordenanza-regional-005-2020"
+   ],
+   "sha256": "5f4d5df494636e668403ae8401b2cecca23c2a8099486807adf04a64820b7a80"
   }
  },
  "schema": 1

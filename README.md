@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-117 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+148 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -129,6 +129,37 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-000027/` | Ordenanza Regional N° 000027: Modifican el Reglamento de Organización y Funciones del Gobierno Regional del Callao | in force 10 January 2012 |
 | `ordenanza-regional-000016-2013/` | Ordenanza Regional N° 000016 (2013): Prorrogan plazo previsto en el Artículo Primero de la Ordenanza Regional N° 00001 | in force 9 September 2013 |
 | `ordenanza-regional-000013-2013/` | Ordenanza Regional N° 000013 (2013): Aprueban Reglamento del Proceso del Presupuesto Participativo Basado en Resultados 2014, del Gobierno Regional del Callao | in force 24 May 2013 |
+| `ordenanza-regional-005-2020/` | Ordenanza Regional N° 005 (2020): Declaran como prioridad pública regional el desarrollo infantil temprano y aprueban la estrategia de gestión territorial " Pri… | in force 18 September 2020 |
+| `ordenanza-regional-000008-2015/` | Ordenanza Regional N° 000008 (2015): Aprueban modificación del Reglamento de Organización y Funciones - ROF y la Estructura Orgánica del Gobierno Regional del C… | in force 27 June 2015 |
+| `ordenanza-regional-000005-2015/` | Ordenanza Regional N° 000005 (2015): Aprueban Cuadro para Asignación de Personal Provisional de la Dirección Regional de Salud del Callao y otros | in force 21 May 2015 |
+| `ordenanza-regional-000004-2015/` | Ordenanza Regional N° 000004 (2015): Ordenanza Regional que institucionaliza y declara el Tercer Sábado de Abril como el "Día del Turismo Chalaco" a Nivel Regio… | in force 18 April 2015 |
+| `ordenanza-regional-000017-2013/` | Ordenanza Regional N° 000017 (2013): Conforman la Mesa Regional para la Atención de las Personas Adultas Mayores de la Región Callao | in force 9 September 2013 |
+| `ordenanza-regional-0000015/` | Ordenanza Regional N° 0000015: Precisan el artículo segundo de la Ordenanza Regional N° 000007 que dispone la protección y conservación de predios de titularida… | in force 6 September 2013 |
+| `ordenanza-regional-000014-2013/` | Ordenanza Regional N° 000014 (2013): Modifican el Reglamento de Organización y Funciones del Gobierno Regional del Callao | in force 19 July 2013 |
+| `ordenanza-regional-000009-2013/` | Ordenanza Regional N° 000009 (2013): Crean la Comisión Regional  Anticorrupción del Gobierno Regional del Callao | in force 12 April 2013 |
+| `ordenanza-regional-000011-2013/` | Ordenanza Regional N° 000011 (2013): Aprueban modificaciones del Cuadro para Asignación de Personal de la Dirección Regional de Salud del Callao, de las 3 Direc… | in force 8 April 2013 |
+| `ordenanza-regional-000010-2013/` | Ordenanza Regional N° 000010 (2013): Aprueban modificación del Cuadro para Asignación de Personal del Hospital de Apoyo San José | in force 8 April 2013 |
+| `ordenanza-regional-000007-2013/` | Ordenanza Regional N° 000007 (2013): Disponen la protección y conservación de predios de titularidad del Gobierno Regional del Callao y de predios del Estado ba… | in force 16 March 2013 |
+| `ordenanza-regional-000006-2013/` | Ordenanza Regional N° 000006 (2013): Aprueban el Reglamento de Organización y Funciones del Hospital Nacional Daniel Alcides Carrión | in force 16 March 2013 |
+| `ordenanza-regional-000005-2013/` | Ordenanza Regional N° 000005 (2013): Aprueban lista de alimentos saludables recomendado para su expendio en los quioscos escolares de las instituciones educativ… | in force 16 February 2013 |
+| `ordenanza-regional-000003-2013/` | Ordenanza Regional N° 000003 (2013): Aprueban el Plan de Acción Ambiental del Callao - PAAC 2013 - 2021 | in force 16 February 2013 |
+| `ordenanza-regional-000004-2013/` | Ordenanza Regional N° 000004 (2013): Constituyen la Comisión Regional de Sanciones en Temas de Pesca y aprueban Reglamento de Inspecciones y Sanciones Pesqueras… | in force 16 February 2013 |
+| `ordenanza-regional-000002-2013/` | Ordenanza Regional N° 000002 (2013): Aprueban la Política Ambiental Regional del Callao | in force 16 February 2013 |
+| `ordenanza-regional-000001-2013/` | Ordenanza Regional N° 000001 (2013): Prorrogan plazo previsto en la Ordenanza Regional N° 000025, que dispuso suspender vigencia de la Ordenanza Regional N° 000… | in force 16 February 2013 |
+| `ordenanza-regional-000038/` | Ordenanza Regional N° 000038: Aprueban creación de la Unidad Ejecutora denominada Hospital de Ventanilla, su Reglamento de Organización y Funciones y el Cuadro … | in force 21 December 2012 |
+| `ordenanza-regional-000034/` | Ordenanza Regional N° 000034: Conforman la Mesa Regional para la prevención, atención y sanción de casos de Trata de Personas en la Región Callao | in force 1 December 2012 |
+| `ordenanza-regional-000035/` | Ordenanza Regional N° 000035: Declaran de interés y necesidad pública la lucha contra los daños no transmisibles | in force 1 December 2012 |
+| `ordenanza-regional-000036/` | Ordenanza Regional N° 000036: Declaran vía de acceso restringido a vehículos menores motorizados y no motorizados a la Avenida Néstor Gambetta en la Región Call… | in force 1 December 2012 |
+| `ordenanza-regional-000032/` | Ordenanza Regional N° 000032: Crean y conforman el Consejo Regional de Seguridad y Salud en el Trabajo en la Región Callao | in force 6 November 2012 |
+| `ordenanza-regional-000030/` | Ordenanza Regional N° 000030: Modifican la Ordenanza Regional N° 012-2004 y reconforman el Consejo Regional de Salud del Callao | in force 24 September 2012 |
+| `ordenanza-regional-000029/` | Ordenanza Regional N° 000029: Modifican el Artículo 8° del Reglamento de las Audiencias Públicas Regionales del Callao | in force 25 August 2012 |
+| `ordenanza-regional-000027-2012/` | Ordenanza Regional N° 000027 (2012): Aprueban Texto Único de Procedimientos Administrativos del Gobierno Regional del Callao | in force 25 August 2012 |
+| `ordenanza-regional-000026/` | Ordenanza Regional N° 000026: Aprueban modificación del Reglamento de Organización y Funciones de la Dirección Regional de Salud del Callao | in force 25 August 2012 |
+| `ordenanza-regional-000028/` | Ordenanza Regional N° 000028: Aprueban modificación del Cuadro para Asignación de Personal - CAP de la Dirección Regional de Salud del Callao, de las Direccione… | in force 25 August 2012 |
+| `ordenanza-regional-000025/` | Ordenanza Regional N° 000025: Suspenden vigencia de la Ordenanza Regional N° 000012 y conforman Comisión Técnica de Trabajo | in force 11 August 2012 |
+| `ordenanza-regional-000024/` | Ordenanza Regional N° 000024: Modifican las Ordenanzas Regionales N°s. 000020 y 000021 | in force 11 August 2012 |
+| `ordenanza-regional-0000023/` | Ordenanza Regional N° 0000023: Crean y conforman el "Comité Directivo Regional de Prevencion y Erradicación del Trabajo Infantil de la Región Callao - CORPETI" | in force 16 June 2012 |
+| `ordenanza-regional-000021/` | Ordenanza Regional N° 000021: Declaran de interés y necesidad pública la vigilancia, prevención y control del dengue en la Región Callao | in force 16 June 2012 |
 
 ## Source
 
