@@ -1,0 +1,152 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001",
+    "ordenanza-regional-002",
+    "ordenanza-regional-003",
+    "ordenanza-regional-004",
+    "ordenanza-regional-005",
+    "ordenanza-regional-006",
+    "ordenanza-regional-007",
+    "ordenanza-regional-008",
+    "ordenanza-regional-009",
+    "ordenanza-regional-010",
+    "ordenanza-regional-011",
+    "ordenanza-regional-012"
+   ],
+   "sha256": "b25cabb2b650fe38fa938f93e49411c761f2d5131d205f783ebdfc3ebfd5a431"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2021",
+    "ordenanza-regional-001-2022",
+    "ordenanza-regional-001-2023",
+    "ordenanza-regional-001-2024",
+    "ordenanza-regional-002-2021",
+    "ordenanza-regional-002-2022",
+    "ordenanza-regional-002-2023",
+    "ordenanza-regional-002-2024",
+    "ordenanza-regional-002-2025",
+    "ordenanza-regional-003-2021",
+    "ordenanza-regional-003-2022",
+    "ordenanza-regional-003-2023",
+    "ordenanza-regional-003-2024",
+    "ordenanza-regional-003-2025",
+    "ordenanza-regional-004-2021",
+    "ordenanza-regional-004-2022",
+    "ordenanza-regional-004-2023",
+    "ordenanza-regional-004-2024",
+    "ordenanza-regional-004-2025",
+    "ordenanza-regional-005-2021",
+    "ordenanza-regional-005-2022",
+    "ordenanza-regional-005-2023",
+    "ordenanza-regional-005-2024",
+    "ordenanza-regional-006-2021",
+    "ordenanza-regional-006-2022",
+    "ordenanza-regional-006-2023",
+    "ordenanza-regional-006-2024",
+    "ordenanza-regional-006-2026",
+    "ordenanza-regional-007-2021",
+    "ordenanza-regional-007-2022",
+    "ordenanza-regional-007-2023",
+    "ordenanza-regional-008-2021",
+    "ordenanza-regional-008-2022",
+    "ordenanza-regional-009-2021",
+    "ordenanza-regional-009-2022"
+   ],
+   "sha256": "464ef8caf96768c96fb58037fbf2b671174af374d5e3f2c8bb98b37bc8e97767"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-000001",
+    "ordenanza-regional-000001-2017",
+    "ordenanza-regional-000002",
+    "ordenanza-regional-000002-2017",
+    "ordenanza-regional-000003",
+    "ordenanza-regional-000003-2017",
+    "ordenanza-regional-000004",
+    "ordenanza-regional-000005",
+    "ordenanza-regional-000006",
+    "ordenanza-regional-000006-2016",
+    "ordenanza-regional-000007",
+    "ordenanza-regional-000007-2016",
+    "ordenanza-regional-000007-2017",
+    "ordenanza-regional-000008",
+    "ordenanza-regional-000008-2016",
+    "ordenanza-regional-000009",
+    "ordenanza-regional-000009-2016",
+    "ordenanza-regional-000010",
+    "ordenanza-regional-000010-2017",
+    "ordenanza-regional-000011",
+    "ordenanza-regional-000011-2017",
+    "ordenanza-regional-000012",
+    "ordenanza-regional-000012-2017",
+    "ordenanza-regional-000013",
+    "ordenanza-regional-000013-2017",
+    "ordenanza-regional-000014",
+    "ordenanza-regional-000015",
+    "ordenanza-regional-000016",
+    "ordenanza-regional-001-2019",
+    "ordenanza-regional-001-2020",
+    "ordenanza-regional-002-2019",
+    "ordenanza-regional-003-2019",
+    "ordenanza-regional-003-2020",
+    "ordenanza-regional-004-2020",
+    "ordenanza-regional-005-2019",
+    "ordenanza-regional-006-2020",
+    "ordenanza-regional-007-2020"
+   ],
+   "sha256": "2f96c449e82400b1192c336531bfe77b47736d4addea49ada3ac29859916c6e4"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-000001-2016",
+    "ordenanza-regional-000002-2016",
+    "ordenanza-regional-000003-2016",
+    "ordenanza-regional-000004-2016",
+    "ordenanza-regional-000009-2015",
+    "ordenanza-regional-000010-2015",
+    "ordenanza-regional-000011-2015",
+    "ordenanza-regional-000012-2015",
+    "ordenanza-regional-000013-2015",
+    "ordenanza-regional-000014-2015",
+    "ordenanza-regional-000015-2016",
+    "ordenanza-regional-000016-2016",
+    "ordenanza-regional-000017",
+    "ordenanza-regional-000018",
+    "ordenanza-regional-006-2008"
+   ],
+   "sha256": "2f071541118b180a920bf7241e3e43fe98b2d6d4dc6883a1fb533d17760d32da"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-000003-2011",
+    "ordenanza-regional-000003-2012",
+    "ordenanza-regional-00002",
+    "ordenanza-regional-000020",
+    "ordenanza-regional-000033",
+    "ordenanza-regional-001-2010",
+    "ordenanza-regional-003-2010",
+    "ordenanza-regional-007-2010",
+    "ordenanza-regional-10"
+   ],
+   "sha256": "097b5026ff228e09ccc42d2d52ed474adfb6341f5f23c7c3234f5c7bfbdc2da8"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-000006-2015",
+    "ordenanza-regional-000007-2015",
+    "ordenanza-regional-000009-2012",
+    "ordenanza-regional-000013-2013",
+    "ordenanza-regional-000016-2013",
+    "ordenanza-regional-000018-2013",
+    "ordenanza-regional-000019",
+    "ordenanza-regional-000027",
+    "ordenanza-regional-000031"
+   ],
+   "sha256": "b39595fedfed1afdd0002c9e8ceeba46cdc0d1053a6d31615b233ef4915ce61d"
+  }
+ },
+ "schema": 1
+}
